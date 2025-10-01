@@ -5,3 +5,4 @@ Planned changes:
 * Weight affects liftoff
 * Gravity falls off at higher altitudes
 * More realistic numbers when it comes to speed and fuel usage
+* Fine tuning of PID constants
